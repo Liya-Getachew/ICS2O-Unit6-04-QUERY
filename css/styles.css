@@ -38,9 +38,10 @@ img {
   margin-right: 15px;
 }
 
-#formula, #answer {
+#formula,
+#answer {
   font-size: 130%;
 }
- #volume {
+#volume {
   color: #e41b57;
- }
+}
