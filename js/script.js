@@ -28,9 +28,10 @@ window.onload = function () {
 
   // process
   const volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3)
-  const dimensions = "<ul>\n<li>radius = " + radius
+  const dimensions = "radius = " + radius
 
   // output
+  document.getElementById("dimensions").innerHTML = dimensions
   document.getElementById("volume").innerHTML =
     "<br>Volume = " + volume.toFixed(2) + " cm³"
 }

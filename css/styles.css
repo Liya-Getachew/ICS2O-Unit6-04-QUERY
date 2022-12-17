@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #ffb3b3;
+  background-color: #deb0f7;
 }
 
 p {
@@ -38,10 +38,12 @@ img {
   margin-right: 15px;
 }
 
-#formula,
-#answer {
+#dimensions, #text {
   font-size: 130%;
 }
-#volume {
-  color: #e41b57;
-}
+
+ #volume, #formula {
+  color: #b529d1;
+  font-size: 130%;
+   font-weight: bold;
+ }
