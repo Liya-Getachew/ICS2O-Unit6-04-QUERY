@@ -38,12 +38,14 @@ img {
   margin-right: 15px;
 }
 
-#dimensions, #text {
+#dimensions,
+#text {
   font-size: 130%;
 }
 
- #volume, #formula {
+#volume,
+#formula {
   color: #b529d1;
   font-size: 130%;
-   font-weight: bold;
- }
+  font-weight: bold;
+}
