@@ -15,9 +15,21 @@ if (navigator.serviceWorker) {
   })
 }
 
+window.onload = function() {
 /**
- * This function displays an alert.
+ * This function calculates the volume of a sphere.
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+
+  const params = new URLSearchParams(document.location.search)
+
+  // input
+  const radius = params.get('r')
+  console.log(radius)
+
+  // process
+  const volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3) 
+  const dimensions = "<ul>\n<li>radius = " + radius 
+
+  // output 
+  document.getElementById("volume").innerHTML = "<br>Volume = " + volume.toFixed(2) + " cm³"
 }
