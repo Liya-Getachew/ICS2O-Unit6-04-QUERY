@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="pIaEtrtLPv3HG8r1JEND" name="Page-1">
-        <mxGraphModel dx="520" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="594" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,19 +10,19 @@
                 <mxCell id="3" value="Header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Volume of a sphere&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Volume of a sphere&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="90" y="130" width="150" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="&lt;font color=&quot;#b529d1&quot; style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Formula:&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;V=4/3πr³&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="7" value="&lt;font color=&quot;#b529d1&quot; style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Formula:&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;V=4/3πr³&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="90" y="160" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;font color=&quot;#000000&quot;&gt;Dimensions are:&amp;nbsp;&lt;br&gt;radius = ___&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=#B529D1;" vertex="1" parent="1">
+                <mxCell id="8" value="&lt;font color=&quot;#000000&quot;&gt;Dimensions are:&amp;nbsp;&lt;br&gt;radius = ___&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=#B529D1;" parent="1" vertex="1">
                     <mxGeometry x="85" y="190" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="&lt;font color=&quot;#b529d1&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Volume = ____&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="9" value="&lt;font color=&quot;#b529d1&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Volume = ____&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="80" y="230" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=13;fontColor=#000000;fillColor=#E5CCFF;strokeColor=#000000;" vertex="1" parent="1">
+                <mxCell id="11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=13;fontColor=#000000;fillColor=#E5CCFF;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="380" y="145" width="30" height="60" as="geometry"/>
                 </mxCell>
             </root>
